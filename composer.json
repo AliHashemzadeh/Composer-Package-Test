@@ -1,0 +1,19 @@
+{
+    "name": "alihashemzadeh/hello-world",
+    "description": "Composer Package Hello World Test.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alihashemzadeh\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Hashemzadeh",
+            "email": "aliihashemzadehh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
